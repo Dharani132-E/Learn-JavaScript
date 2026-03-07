@@ -217,4 +217,4 @@ const repeatedLove = "love ".repeat(3).trimEnd();
 console.log(repeatedLove);
 
 const newSentence = `I ${repeatedLove} learning.`;
-console.log(newSentence)
+console.log(newSentence);
