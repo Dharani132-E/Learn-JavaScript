@@ -218,3 +218,8 @@ console.log(repeatedLove);
 
 const newSentence = `I ${repeatedLove} learning.`;
 console.log(newSentence);
+
+
+
+//Day 7 Build a Logic Checker App
+
