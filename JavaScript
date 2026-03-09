@@ -245,8 +245,7 @@ if (timmyAge >= 16) {
 
 
 
-
-//
+//Day 8 Build a Mathbot
 
 
 const botName = "MathBot";
