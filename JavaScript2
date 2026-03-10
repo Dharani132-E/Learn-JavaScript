@@ -10,10 +10,10 @@ let fortune5 = "Good news is waiting for you.";
 
 let randomNumber = Math.floor(Math.random() * 5) + 1;
 
-// Step 8: Variable to store selected fortune
+
 let selectedFortune;
 
-// Step 9: Match random number with fortune
+
 if (randomNumber === 1) {
     selectedFortune = fortune1;
 } else if (randomNumber === 2) {
@@ -26,5 +26,5 @@ if (randomNumber === 1) {
     selectedFortune = fortune5;
 }
 
-// Step 10: Output the fortune
+
 console.log(selectedFortune);
