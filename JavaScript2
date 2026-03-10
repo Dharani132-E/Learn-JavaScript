@@ -1,1 +1,30 @@
 //Day 9 Build   a Fortune Teller
+
+// Step 1–5: Initialize fortune messages
+let fortune1 = "You will have a great day!";
+let fortune2 = "Success is coming your way.";
+let fortune3 = "A new opportunity will appear soon.";
+let fortune4 = "Happiness will find you today.";
+let fortune5 = "Good news is waiting for you.";
+
+// Step 6–7: Generate random number between 1 and 5
+let randomNumber = Math.floor(Math.random() * 5) + 1;
+
+// Step 8: Variable to store selected fortune
+let selectedFortune;
+
+// Step 9: Match random number with fortune
+if (randomNumber === 1) {
+    selectedFortune = fortune1;
+} else if (randomNumber === 2) {
+    selectedFortune = fortune2;
+} else if (randomNumber === 3) {
+    selectedFortune = fortune3;
+} else if (randomNumber === 4) {
+    selectedFortune = fortune4;
+} else {
+    selectedFortune = fortune5;
+}
+
+// Step 10: Output the fortune
+console.log(selectedFortune);
