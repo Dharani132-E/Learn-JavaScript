@@ -130,7 +130,7 @@ console.log(noLoanMsg);
 
 //Day 12 Build a celcius Farenheit converter
 
-unction convertCtoF(celsius){
+function convertCtoF(celsius){
   let farenheit= celsius * (9/5) + 32;
   return farenheit;
 }
