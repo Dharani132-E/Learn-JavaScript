@@ -128,7 +128,7 @@ console.log(condoLoanMsg);
 console.log(carLoanMsg);
 console.log(noLoanMsg);
 
-
+//Day 12 Build a celcius Farenheit converter
 
 
 
