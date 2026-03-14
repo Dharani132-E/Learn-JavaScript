@@ -143,6 +143,22 @@ convertCtoF(30);
 
 
 //Day 13 Implemented the Truncate String Algorithm
+function truncateString(name,number){
+if(name.length>number){
+  return name.slice(0,number)+"...";
+} else {
+  return name;
+
+}
+}
+truncateString("A-tisket a-tasket A green and yellow basket", 8);
+truncateString("Peter Piper picked a peck of pickled peppers", 11);
+truncateString("A-", 1) ;
+truncateString("Absolutely Longer", 2);
+
+
+
+
 
 
 
