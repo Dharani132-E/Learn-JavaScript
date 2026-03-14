@@ -143,6 +143,9 @@ convertCtoF(30);
 
 
 //Day 13 Implemented the Truncate String Algorithm
+
+
+
 function truncateString(name,number){
 if(name.length>number){
   return name.slice(0,number)+"...";
