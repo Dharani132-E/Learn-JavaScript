@@ -178,6 +178,8 @@ console.log(condoLoanMsg);
 console.log(carLoanMsg);
 console.log(noLoanMsg);
 
+//Day 16
+
 
 
 
