@@ -200,6 +200,22 @@ const duplexLoanMsg = getLoanMessage(85000,850);
 
 console.log(noLoanMsg);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Day 17
 
 function truncateString(name,number){
