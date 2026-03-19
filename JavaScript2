@@ -165,7 +165,17 @@ truncateString("Absolutely Longer", 2);
 
 
 
-//Day 14 
+//Day 14 uild a confirm the Ending Tool
+
+
+
+function confirmEnding(str1,str2){
+return str1.slice(-str2.length)===str2;
+}
+confirmEnding("If you want to save our world, you must hurry. We don't know how much longer we can withstand the nothing", "mountain");
+confirmEnding("Open sesame", "game");
+confirmEnding("Open sesame", "sage");
+
 
 
 
