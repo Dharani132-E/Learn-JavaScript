@@ -328,7 +328,15 @@ console.log(calculateSquareRoot(25));
 
 console.log(calculateSquareRoot(100));
 
-//Day22
+//Day 22
+unction calculateSquareRoot(num) {
+  return Math.sqrt(num);
+}
+
+console.log(calculateSquareRoot(25));
+
+console.log(calculateSquareRoot(100));
+
 
 
 
