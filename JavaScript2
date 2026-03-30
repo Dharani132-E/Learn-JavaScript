@@ -1,6 +1,7 @@
 //Day 9 Build   a Fortune Teller
 
 //Day 24
+//Day25
 let fortune1 = "You will have a great day!";
 let fortune2 = "Success is coming your way.";
 let fortune3 = "A new opportunity will appear soon.";;
