@@ -382,6 +382,18 @@ if (randomNumber === 1) {
 
 
 console.log(selectedFortune);
+//Day 24
+ will have a great day!";
+let fortune2 = "Success is coming your way.";
+
+
+
+
+//Day25
+
+
+ will have a great day!";
+let fortune2 = "Success is coming your way.";
 
 
 
