@@ -4,7 +4,7 @@
 
 
 
-let fortune2 =   "Success is coming your way.";
+let fortune2 =  "Success is coming your way.";
 let fortune3 = "A new opportunity will appear soon.";;
 let fortune4 = "Happiness will find you today.";
 let fortune5 = "Good news is waiting for you."
