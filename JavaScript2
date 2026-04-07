@@ -13,7 +13,7 @@ let fortune5 = "Good news is waiting for you."
 let randomNumber = Math.floor(Math.random() * 5) +  1;
 
 
-let selectedFortune
+let selectedFortune:
 
 
 if (randomNumber === 1) {
